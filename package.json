@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/antikalk/gulp-csv-angular-translate#readme",
   "dependencies": {
-    "csv-parse": "^1.0.1",
+    "csv-parse": "^4.4.1",
     "del": "^2.2.0",
     "gulp": "^3.9.0",
     "gulp-debug": "^2.1.2",
